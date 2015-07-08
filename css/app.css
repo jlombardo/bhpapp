@@ -1,0 +1,18 @@
+.container {
+  margin-bottom: 20px;
+  padding-bottom: 50px;
+}
+
+.home-head {
+  text-align: center;
+}
+
+.home-pitch {
+  text-align: center;
+}
+
+.center-video {  
+  display: block;  
+  margin-right: auto;  
+  margin-left: auto;    
+}  
